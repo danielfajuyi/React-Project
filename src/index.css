@@ -1,0 +1,10 @@
+@font-face {
+  font-family: Inter;
+  src: url("./font/Inter\ Bold\ 700.otf");
+  src: url("./font/Inter\ Regular\ 400.otf");
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  margin: 0;
+}
